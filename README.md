@@ -8,5 +8,6 @@ Small script to allow simple switch hybrid graphcs with SUSE prime.
 - add following to ~/.bashrc:
 -   export SWITCH="your_locaion"/switch_suse_prime.sh
 - (or similar)
+-   use $SWUTCH to get theprompt
 
-(probably there  is million better ways to use it, but... "works for me")
+(probably there  is million better ways to use it, but... "works for me" ;) )
