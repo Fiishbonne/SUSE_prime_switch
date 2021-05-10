@@ -1,0 +1,1 @@
+# SUSE_prime_switch
